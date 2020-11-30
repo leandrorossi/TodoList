@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css" />
+    <title>Lista de Tarefas</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Lista de Tarefas</h1>
+            <label id="label">Tarefa:</label>
+            <form class="form">
+                <input type="text" name="tarefa" id="tarefa" placeholder="Digite aqui a sua tarefa" autofocus>
+                <button type="button" name="adicionar" id="adicionar">Adicionar</button>
+                <button type="button" name="excluir" id="excluir">Excluir</button>
+            </form>
+        </div>
+        <div class="card-lista">
+            <ul class="lista"></ul>
+        </div>
+        <div class="aviso">
+            <p id="texto-aviso">Voce precisa informar uma tarefa</p>
+        </div>
+    </div>
+    <script src="bundle.js"></script>
+</body>
+
+</html>
