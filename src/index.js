@@ -84,7 +84,6 @@ function eventoRemover(checkBox, itemLista) {
             }   
         } 
     })
-    checkBox.dispatchEvent(new Event("change"));
 }
 
 function removeTarefa(tarefa) {

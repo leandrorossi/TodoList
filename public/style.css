@@ -28,7 +28,7 @@ body {
 
 #label {
     flex: 100%;
-    margin: 1em 2em 0;
+    margin: 1em 2em 0.5em;
     display: block;
     color: white;
     font-size: 0.9em;
