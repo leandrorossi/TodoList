@@ -11,21 +11,21 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre o projeto](#sobre-o-projeto)
+   * [Sobre o projeto](#-sobre-o-projeto)
    * [Layout](#-layout)
-   * [Como executar o projeto](#como-executar-o-projeto)
+   * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
      * [Rodando a aplicação](#rodando-a-aplicação)
-   * [Tecnologias](#tecnologias)
-   * [Autor](#autor)
-   * [Licença](#licença)
+   * [Tecnologias](#-tecnologias)
+   * [Autor](#-autor)
+   * [Licença](#-licença)
 <!--te-->
 
-## :computer: Sobre o Projeto
+## 💻 Sobre o Projeto
 
 Esse é meu primeiro projeto, uma simples lista de tarefas utilizando html, css, javascripit vanilla, a biblioteca babel e o webpack.
 
-## :art: Layout
+## 🎨 Layout
 
 Adicionando tarefas:
 
@@ -39,7 +39,7 @@ Excluindo as tarefas:
   <img alt="Excluindo" title="#Excluindo" src="./assets/excluir.gif" width="600px">
 </p>
 
-## :cd: Como executar o projeto
+## 💿 Como executar o projeto
 
 ### Pré-requisitos
 
@@ -85,7 +85,7 @@ $ yarn start
 # O servidor inciará na porta:8080 - acesse http://localhost:8080
 ```
 
-## :toolbox: Tecnologias
+## 🧰 Tecnologias
 
 As seguintes tecnologias foram usadas para a construção do projeto:
 
@@ -95,7 +95,7 @@ As seguintes tecnologias foram usadas para a construção do projeto:
 - **[Babel](https://babeljs.io/)**
 - **[Webpack](https://webpack.js.org/)**
 
-## :bust_in_silhouette: Autor
+## 👤 Autor
 
 <img src="https://avatars2.githubusercontent.com/u/65093597?s=60&v=4" width="100px;" alt="avatar"/>
 <b>Leandro U. Rossi</b>
@@ -103,6 +103,6 @@ As seguintes tecnologias foram usadas para a construção do projeto:
  [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-rossi-4769ab1a6/)](https://www.linkedin.com/in/leandro-rossi-4769ab1a6/)
 
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto está sobe a licença [MIT](./LICENSE).
