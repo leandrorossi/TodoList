@@ -16,6 +16,6 @@
     "@babel/polyfill": "^7.12.1"
   },
   "scripts": {
-    "dev": "webpack-dev-server --model=development"
+    "start": "webpack-dev-server --model=development"
   }
 }
