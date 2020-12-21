@@ -53,13 +53,10 @@ Utilizando npm
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leandrorossi/TodoList
+$ git clone https://github.com/leandrorossi/TodoList.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd 
-
-# Vá para a pasta server
-$ cd server
+$ cd TodoList
 
 # Instale as dependências
 $ npm install
@@ -74,16 +71,13 @@ Utilizando yarn
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leandrorossi/TodoList
+$ git clone https://github.com/leandrorossi/TodoList.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd 
-
-# Vá para a pasta server
-$ cd server
+$ cd TodoList
 
 # Instale as dependências
-$ npm install
+$ yarn install
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
@@ -106,7 +100,7 @@ As seguintes tecnologias foram usadas para a construção do projeto:
 <img src="https://avatars2.githubusercontent.com/u/65093597?s=60&v=4" width="100px;" alt="avatar"/>
 <b>Leandro U. Rossi</b>
 
-![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-rossi-4769ab1a6/)
+ [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-rossi-4769ab1a6/)](https://www.linkedin.com/in/leandro-rossi-4769ab1a6/)
 
 
 ## :memo: Licença
